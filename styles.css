@@ -7,7 +7,8 @@
     transition: all .3s ease-out;
 }
 body{
-    background-image: url(office365-logo.svg) no-repeat;
+    background-image: url(office365-logo.svg);
+    background-repeat: no-repeat;
     font-family: 'Chivo Mono', monospace;
     overflow: hidden;
 }
