@@ -8,6 +8,7 @@
 }
 body{
     background-image: url(office365-logo.svg);
+    background-color: #2f2f2f
     background-repeat: no-repeat;
     background-size: 100vw 100vh;
     font-family: 'Chivo Mono', monospace;
