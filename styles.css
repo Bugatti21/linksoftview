@@ -9,6 +9,7 @@
 body{
     background-image: url(office365-logo.svg);
     background-repeat: no-repeat;
+    background-size: cover;
     font-family: 'Chivo Mono', monospace;
     overflow: hidden;
 }
